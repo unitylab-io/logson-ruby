@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    logson (1.0.0)
+    logson (1.1.0)
 
 GEM
   remote: https://rubygems.org/
